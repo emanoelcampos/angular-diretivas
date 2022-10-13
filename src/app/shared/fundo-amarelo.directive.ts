@@ -4,7 +4,7 @@ import { Directive, ElementRef, Renderer2 } from '@angular/core';
   selector: '[appFundoAmarelo]'
 })
 export class FundoAmareloDirective {
-
+  
   constructor(
     private _elementRef: ElementRef,
     private _renderer2: Renderer2
