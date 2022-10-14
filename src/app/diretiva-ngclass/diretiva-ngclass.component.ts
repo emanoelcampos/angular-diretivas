@@ -15,7 +15,7 @@ export class DiretivaNgclassComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(){
   }
 
 }
